@@ -197,6 +197,11 @@ export default function InlineChatbot() {
                   "AI & GenAI skills?",
                   "Education background?",
                   "Experience at AT&T?",
+                  "Certifications?",
+                  "Leadership experience?",
+                  "What value does Harsha bring?",
+                  "How can he help with growth?",
+                  "Can he handle compliance?",
                 ].map((q) => (
                   <button
                     key={q}
@@ -276,6 +281,9 @@ export default function InlineChatbot() {
                 "Experience at AT&T?",
                 "Certifications?",
                 "Leadership experience?",
+                "What value does Harsha bring?",
+                "How can he help with growth?",
+                "Can he handle compliance?",
               ].map((q) => (
                 <button
                   key={q}
