@@ -205,4 +205,27 @@ export const resumeChunks: ResumeChunk[] = [
       "Certifications: Project Management Professional (PMP) — Project Management Institute. SAFe Agilist — Scaled Agile, Inc.",
     keywords: ["certifications", "pmp", "safe", "agile", "credentials"],
   },
+
+  // Strategic Value Propositions
+  {
+    id: "strategic-value-1",
+    category: "strategic-value",
+    content:
+      "What strategic advantage does Harsha bring to an organization undergoing data and AI transformation? Harsha brings the rare ability to align enterprise AI, cloud, and data strategy with board-level business priorities, having built and scaled AT&T's 400-member Chief Data Office across 8 business units. He consistently converts transformation into measurable value through operating-model design, Responsible AI governance, and large-scale execution that delivered $70M+ in savings and faster delivery at Fortune 50 scale.",
+    keywords: ["strategic", "advantage", "transformation", "value", "board", "alignment", "chief data office", "why hire", "benefit"],
+  },
+  {
+    id: "strategic-value-2",
+    category: "strategic-value",
+    content:
+      "How can Harsha help a company accelerate growth while improving operational efficiency? He drives growth by prioritizing high-ROI initiatives, modernizing platforms, and productionizing AI solutions that improve productivity, reduce costs, and strengthen enterprise decision-making. His track record includes reducing GenAI inference costs by 35%, increasing development velocity by 40%, and scaling products that served 1,000+ internal users across the business.",
+    keywords: ["growth", "efficiency", "roi", "productivity", "cost reduction", "modernization", "operational", "value"],
+  },
+  {
+    id: "strategic-value-3",
+    category: "strategic-value",
+    content:
+      "Why is Harsha well-suited to lead enterprise AI adoption in a regulated, high-stakes environment? Harsha combines deep technical command of GenAI, RAG, LLMOps, and multi-cloud architecture with strong governance leadership across the EU AI Act, NIST AI RMF, and ISO 42001. He enables innovation without compromising trust, as shown by his zero regulatory findings, enterprise AI risk oversight, and deployment of 20+ GenAI products with robust guardrails and human validation.",
+    keywords: ["regulated", "compliance", "governance", "trust", "risk", "enterprise ai", "responsible ai", "high-stakes", "leadership"],
+  },
 ];
