@@ -11,7 +11,20 @@ const LinkedinIcon = ({ size = 18 }: { size?: number }) => (
 
 function App() {
   useEffect(() => {
+    // Disable scroll restoration
+    if ('scrollRestoration' in history) {
+      history.scrollRestoration = 'manual'
+    }
+    
+    // Force scroll to top immediately
     window.scrollTo(0, 0)
+    
+    // Also force after a short delay for mobile browsers
+    const timer = setTimeout(() => {
+      window.scrollTo(0, 0)
+    }, 100)
+    
+    return () => clearTimeout(timer)
   }, [])
 
   return (
