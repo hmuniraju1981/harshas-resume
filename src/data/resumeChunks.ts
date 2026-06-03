@@ -11,7 +11,7 @@ export const resumeChunks: ResumeChunk[] = [
     id: "identity-1",
     category: "identity",
     content:
-      "Harsha Muniraju, MBA. Chief Data Office – Data & AI Engineering. Based in Dallas, TX 75407. Phone: 945-426-8797. Email: harsha.muniraju1981@gmail.com. LinkedIn: linkedin.com/in/harshamuniraju. U.S. Work Authorized.",
+      "Harsha Muniraju, MBA. Agentic AI Enablement and Transformation Executive. Based in Dallas, TX 75407. Phone: 945-426-8797. Email: harsha.muniraju1981@gmail.com. LinkedIn: linkedin.com/in/harshamuniraju. U.S. Work Authorized.",
     keywords: ["name", "contact", "location", "email", "phone", "linkedin", "who", "harsha"],
   },
 

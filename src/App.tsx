@@ -76,7 +76,7 @@ function App() {
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-4 font-light">
-            Data and AI Transformational Executive, Chief Data Office, AT&T Inc
+            Agentic AI Enablement and Transformation Executive
           </p>
           <p className="text-base text-gray-500 max-w-2xl mx-auto mb-8 leading-relaxed">
             Visionary Data & AI executive with 15+ years architecting enterprise-scale data, cloud, and AI capabilities at Fortune 50 scale. Trusted advisor to C-suite and Board on AI strategy, Responsible AI governance, and value creation.
