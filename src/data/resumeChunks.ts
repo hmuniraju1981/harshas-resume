@@ -20,14 +20,14 @@ export const resumeChunks: ResumeChunk[] = [
     id: "summary-1",
     category: "summary",
     content:
-      "Harsha is a Visionary Data & AI executive with 15+ years architecting enterprise-scale data, cloud, and AI capabilities at Fortune 50 scale — including the inception and scale-up of the 400-member global Chief Data Office at AT&T, processing 760+ petabytes of enterprise data. Trusted advisor to C-suite and Board on AI strategy, Responsible AI governance, and value creation.",
+      "Data, AI, and Agentic AI executive with 15+ years leading enterprise transformation across AI strategy, autonomous systems, data platforms, cloud architecture, and production delivery in Fortune 50 environments, including scaling AT&T's Chief Data Office into a 400-member global organization supporting 760+ PB of enterprise data. Trusted advisor to senior leadership on Agentic AI strategy, Responsible AI governance, enterprise operating models, and value realization, with hands-on depth across platform architecture, AI productization, and large-scale organizational execution.",
     keywords: ["summary", "overview", "about", "experience", "years", "executive", "background"],
   },
   {
     id: "summary-2",
     category: "summary",
     content:
-      "Harsha is the architect of enterprise roadmaps spanning agentic AI, GenAI, LLMs, RAG (Azure AI Search), MLOps, and multi-cloud (Azure-primary, AWS, GCP) with delivery of $70M+ in savings, 40% faster delivery, and 35% cost reduction. Operationalized Responsible AI programs aligned to the EU AI Act, NIST AI RMF, and ISO 42001, productionized 20+ GenAI products serving 1,000+ users, and built global engineering organizations with >90% retention.",
+      "Led enterprise programs spanning Agentic AI, GenAI, LLMs, RAG, LLMOps, MLOps, and Azure-primary multi-cloud ecosystems across Azure, AWS, and GCP, delivering $70M+ in savings, 40% faster delivery, and 35% lower AI inference costs. Built and governed production AI ecosystems supporting 20+ GenAI products, 250+ production models, and 1,000+ internal users while sustaining zero regulatory findings under enterprise Responsible AI controls.",
     keywords: ["summary", "achievements", "savings", "genai", "responsible ai", "accomplishments"],
   },
 

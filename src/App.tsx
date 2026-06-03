@@ -79,7 +79,7 @@ function App() {
             Agentic AI Enablement and Transformation Executive
           </p>
           <p className="text-base text-gray-500 max-w-2xl mx-auto mb-8 leading-relaxed">
-            Visionary Data & AI executive with 15+ years architecting enterprise-scale data, cloud, and AI capabilities at Fortune 50 scale. Trusted advisor to C-suite and Board on AI strategy, Responsible AI governance, and value creation.
+            Data, AI, and Agentic AI executive with 15+ years leading enterprise transformation across AI strategy, autonomous systems, data platforms, cloud architecture, and production delivery in Fortune 50 environments.
           </p>
           <div className="flex flex-wrap gap-4 justify-center mb-8">
             <a href="mailto:harsha.muniraju1981@gmail.com" className="px-8 py-3 bg-gradient-to-r from-cyan-600 to-blue-600 rounded-full font-medium hover:from-cyan-500 hover:to-blue-500 transition-all shadow-lg shadow-cyan-500/20 hover:shadow-cyan-500/40">
@@ -123,7 +123,7 @@ function App() {
           </div>
           <div className="bg-white/[0.03] backdrop-blur-sm border border-white/10 rounded-2xl p-8 md:p-12">
             <p className="text-lg text-gray-300 leading-relaxed">
-              Visionary Data & AI executive with 15+ years architecting enterprise-scale data, cloud, and AI capabilities at Fortune 50 scale — including the inception and scale-up of the <strong className="text-cyan-300">400-member global Chief Data Office at AT&T</strong>, processing <strong className="text-cyan-300">760+ petabytes of enterprise data</strong>. Architect of enterprise roadmaps spanning agentic AI, GenAI, LLMs, RAG, MLOps, and multi-cloud with delivery of <strong className="text-cyan-300">$70M+ in savings</strong>, <strong className="text-cyan-300">40% faster delivery</strong>, and <strong className="text-cyan-300">35% cost reduction</strong>. Productionized <strong className="text-cyan-300">20+ GenAI products serving 1,000+ users</strong> and built global engineering organizations with <strong className="text-cyan-300">&gt;90% retention</strong>.
+              Data, AI, and Agentic AI executive with 15+ years leading enterprise transformation across AI strategy, autonomous systems, data platforms, cloud architecture, and production delivery in Fortune 50 environments, including scaling AT&T's Chief Data Office into a <strong className="text-cyan-300">400-member global organization</strong> supporting <strong className="text-cyan-300">760+ PB of enterprise data</strong>. Led enterprise programs spanning Agentic AI, GenAI, LLMs, RAG, LLMOps, MLOps, and Azure-primary multi-cloud ecosystems, delivering <strong className="text-cyan-300">$70M+ in savings</strong>, <strong className="text-cyan-300">40% faster delivery</strong>, and <strong className="text-cyan-300">35% lower AI inference costs</strong>. Built and governed production AI ecosystems supporting <strong className="text-cyan-300">20+ GenAI products</strong>, <strong className="text-cyan-300">250+ production models</strong>, and <strong className="text-cyan-300">1,000+ internal users</strong> while sustaining zero regulatory findings under enterprise Responsible AI controls.
             </p>
           </div>
 
