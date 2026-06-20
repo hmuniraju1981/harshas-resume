@@ -121,9 +121,18 @@ function App() {
               </span>
             </h2>
           </div>
-          <div className="bg-white/[0.03] backdrop-blur-sm border border-white/10 rounded-2xl p-8 md:p-12">
+          <div className="bg-white/[0.03] backdrop-blur-sm border border-white/10 rounded-2xl p-8 md:p-12 space-y-4">
             <p className="text-lg text-gray-300 leading-relaxed">
-              Data, AI, and Agentic AI executive with 15+ years leading enterprise transformation across AI strategy, autonomous systems, data platforms, cloud architecture, and production delivery in Fortune 50 environments, including scaling AT&T's Chief Data Office into a <strong className="text-cyan-300">400-member global organization</strong> supporting <strong className="text-cyan-300">760+ PB of enterprise data</strong>. Led enterprise programs spanning Agentic AI, GenAI, LLMs, RAG, LLMOps, MLOps, and Azure-primary multi-cloud ecosystems, delivering <strong className="text-cyan-300">$70M+ in savings</strong>, <strong className="text-cyan-300">40% faster delivery</strong>, and <strong className="text-cyan-300">35% lower AI inference costs</strong>. Built and governed production AI ecosystems supporting <strong className="text-cyan-300">20+ GenAI products</strong>, <strong className="text-cyan-300">250+ production models</strong>, and <strong className="text-cyan-300">1,000+ internal users</strong> while sustaining zero regulatory findings under enterprise Responsible AI controls.
+              Data, AI, and Agentic AI executive with 15+ years leading enterprise transformation across AI strategy, autonomous systems, data platforms, cloud architecture, and production delivery in Fortune 50 environments, including scaling <strong className="text-cyan-300">AT&T's Chief Data Office</strong> into a global organization supporting <strong className="text-cyan-300">760+ PB of enterprise data</strong>.
+            </p>
+            <p className="text-lg text-gray-300 leading-relaxed">
+              Trusted advisor to senior leadership on <strong className="text-cyan-300">Agentic AI strategy</strong>, Responsible AI governance, enterprise operating models, and value realization, with hands-on depth across platform architecture, AI productization, and large-scale organizational execution.
+            </p>
+            <p className="text-lg text-gray-300 leading-relaxed">
+              Led enterprise programs spanning Agentic AI, GenAI, LLMs, RAG, LLMOps, MLOps, and Azure-primary multi-cloud ecosystems across Azure, AWS, and GCP, delivering <strong className="text-cyan-300">$70M+ in savings</strong>, <strong className="text-cyan-300">40% faster delivery</strong>, and <strong className="text-cyan-300">35% lower AI inference costs</strong>.
+            </p>
+            <p className="text-lg text-gray-300 leading-relaxed">
+              Built and governed production AI ecosystems supporting <strong className="text-cyan-300">20+ GenAI products</strong>, <strong className="text-cyan-300">250+ production models</strong>, and <strong className="text-cyan-300">1,000+ internal users</strong> while sustaining zero regulatory findings under enterprise Responsible AI controls.
             </p>
           </div>
 
@@ -249,7 +258,7 @@ function App() {
             <Cpu size={32} className="text-cyan-400" />
             <h2 className="text-3xl md:text-4xl font-bold">
               <span className="bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
-                Core Technical Competencies
+                Core Competencies
               </span>
             </h2>
           </div>
@@ -257,39 +266,39 @@ function App() {
             {[
               {
                 icon: <Brain size={22} />,
-                title: 'AI / GenAI / LLMs',
+                title: 'Agentic AI & Autonomous Systems',
                 bgImage: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&q=80',
-                skills: ['Azure OpenAI (GPT-4o, GPT-4 Turbo, o1)', 'Claude 4.7/4.5/Opus/Sonnet', 'Llama 3', 'Mistral', 'Gemini', 'RAG (Azure AI Search)', 'FAISS', 'pgvector', 'Fine-tuning (LoRA, PEFT, RLHF)', 'LangChain', 'LangGraph', 'CrewAI', 'AutoGen'],
-              },
-              {
-                icon: <Code size={22} />,
-                title: 'MLOps / LLMOps',
-                bgImage: 'https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=600&q=80',
-                skills: ['Azure ML', 'MLflow', 'Kubeflow', 'Amazon SageMaker', 'Vertex AI', 'Docker', 'Kubernetes (AKS)', 'Azure DevOps', 'GitHub Actions', 'A/B Testing'],
-              },
-              {
-                icon: <Database size={22} />,
-                title: 'Data Platforms',
-                bgImage: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80',
-                skills: ['Snowflake', 'Azure Databricks', 'Delta Lake', 'Apache Spark', 'Kafka', 'Airflow', 'dbt', 'Microsoft Fabric', 'Apache Iceberg', 'Informatica', 'Teradata', 'Vertica'],
-              },
-              {
-                icon: <TrendingUp size={22} />,
-                title: 'Cloud & Infra',
-                bgImage: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=80',
-                skills: ['Azure (OpenAI, AI Search, Cosmos DB, Synapse, AKS)', 'AWS (Bedrock, S3, Glue, Lambda)', 'Terraform', 'Infrastructure-as-Code', 'FinOps'],
+                skills: ['Agentic AI & Autonomous Systems', 'Multi-Agent Orchestration', 'LangChain', 'LangGraph', 'CrewAI', 'Microsoft Agent Framework', 'AutoGen'],
               },
               {
                 icon: <Shield size={22} />,
-                title: 'Responsible AI',
+                title: 'AI Strategy & Governance',
                 bgImage: 'https://images.unsplash.com/photo-1563986768609-322da13575f2?w=600&q=80',
-                skills: ['EU AI Act', 'NIST AI RMF', 'ISO 42001', 'GDPR', 'CCPA', 'SOC 2', 'Azure AI Content Safety', 'Bias/Fairness Audits', 'Model Cards'],
+                skills: ['AI Strategy', 'AI Operating Models', 'Responsible AI', 'AI Governance', 'Board Reporting', 'Portfolio Ownership'],
+              },
+              {
+                icon: <Code size={22} />,
+                title: 'GenAI & LLMs',
+                bgImage: 'https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=600&q=80',
+                skills: ['GenAI', 'LLMs', 'RAG', 'LLMOps', 'MLOps', 'Azure OpenAI', 'Gemini', 'Perplexity'],
+              },
+              {
+                icon: <TrendingUp size={22} />,
+                title: 'Microsoft & Azure Ecosystem',
+                bgImage: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=80',
+                skills: ['Microsoft 365 Copilot', 'Copilot Studio', 'Microsoft Fabric', 'Power Platform', 'Azure AI Search', 'Azure Cosmos DB', 'Azure Databricks', 'Azure ML', 'AKS'],
+              },
+              {
+                icon: <Database size={22} />,
+                title: 'Data Platforms & Infrastructure',
+                bgImage: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&q=80',
+                skills: ['Snowflake', 'MLflow', 'Kafka', 'Apache Spark', 'Delta Lake', 'Airflow', 'dbt', 'Terraform', 'AWS', 'GCP'],
               },
               {
                 icon: <Users size={22} />,
                 title: 'Leadership',
                 bgImage: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80',
-                skills: ['P&L Ownership ($200M+)', '400+ Global Team', 'Multi-vendor Strategy', 'M&A Integration', 'Talent Strategy', 'Board-level Communication'],
+                skills: ['Global Team Leadership', 'Partner & Vendor Coordination', 'Board Reporting', 'Portfolio Ownership'],
               },
             ].map((category, i) => (
               <div key={i} className="relative bg-white/[0.03] backdrop-blur-sm border border-white/10 rounded-2xl overflow-hidden hover:border-cyan-500/30 transition-colors group">
@@ -313,20 +322,6 @@ function App() {
                 </div>
               </div>
             ))}
-          </div>
-
-          {/* Programming Languages Bar */}
-          <div className="mt-8 bg-white/[0.03] backdrop-blur-sm border border-white/10 rounded-2xl p-6">
-            <h3 className="text-base font-semibold text-white mb-4 flex items-center gap-2">
-              <Code size={18} className="text-cyan-400" /> Programming & Tooling
-            </h3>
-            <div className="flex flex-wrap gap-3">
-              {['Python', 'SQL', 'PySpark', 'Scala', 'REST APIs', 'GraphQL', 'Git', 'Azure DevOps', 'JIRA', 'Confluence', 'Power BI'].map((lang, i) => (
-                <span key={i} className="px-4 py-2 bg-cyan-500/5 border border-cyan-500/15 rounded-lg text-sm text-cyan-300 font-medium">
-                  {lang}
-                </span>
-              ))}
-            </div>
           </div>
         </div>
       </section>
